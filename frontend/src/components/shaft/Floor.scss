@@ -1,0 +1,44 @@
+.Floor {
+  align-items: center;
+  justify-content: center;
+  border-color: azure;
+  border-width: 1px;
+  border-style: solid;
+  }
+
+.controls {
+  display: flex;
+  align-items: center;
+}
+
+.floor-no {
+  color: white;
+  font-size: 3em;
+  justify-content: left;
+  text-align: left;
+  padding-right: 10px;
+}
+
+.floor-button {
+  padding-right: 5px;
+}
+
+.floor-button:hover {
+  cursor: pointer;
+}
+
+.floor-buttons {
+  color: white;
+  font-size: 2em;
+  justify-content: left;
+  text-align: left;
+}
+
+.elevator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+

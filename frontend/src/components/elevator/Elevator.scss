@@ -1,0 +1,25 @@
+.Elevator {
+  background: black;
+  color: red;
+  border-color: white;
+  border-style: solid;
+  border-width: 2px;
+  height: 200px;
+  width: 145px;
+  padding: 0px;
+  margin: 5px;
+  background-image: url("/elevator-open.png");
+}
+
+.ElevatorHidden {
+  background: black;
+  color: black;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  height: 200px;
+  width: 145px;
+  padding: 5px;
+  margin: 5px;
+  z-index: -100;
+}
